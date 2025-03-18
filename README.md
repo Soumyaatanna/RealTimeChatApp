@@ -9,10 +9,6 @@ A feature-packed real-time chat application built using the MERN stack, Socket.i
 2. [Tech Stack](#tech-stack)
 3. [Installation](#installation)
 4. [Environment Variables](#environment-variables)
-5. [Build and Start the App](#build-and-start-the-app)
-6. [Screenshots](#screenshots)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
@@ -60,3 +56,4 @@ JWT_SECRET=your_jwt_secret
 CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+
